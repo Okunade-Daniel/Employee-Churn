@@ -17,7 +17,9 @@ The final Power BI report is shown here:
 ![power bi report](https://github.com/Okunade-Daniel/Employee-Churn/blob/main/employee%20churn/employee%20churn.png)
 
 # Recommendations
-1.
+1. Provide employees with more opportunities for career development, learning, and growth especially those who have spent more years in the company and have participated in fewer projects.
+2. Salary and other compensations should be adjusted accordingly to ensure they are competitive and fair.
+3. Employees due for promotion should be promoted and a review can be done for the time taken for employees to be promoted.
 
 
 If you have any questions about this project, please contact me at [https://twitter.com/Bionic999]
