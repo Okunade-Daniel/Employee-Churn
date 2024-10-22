@@ -1,7 +1,7 @@
-# Employee-Churn
-Employee churn is a costly problem for businesses. It can lead to lost productivity, increased hiring costs, and decreased customer satisfaction. This project aims to help Bionic Enterprise reduce employee churn by identifying why the employees leaving the company and providing recommendations on how to curb employee turnover.
+# Employee-Churn Analysis
+Employee churn is a costly problem for businesses. It can lead to lost productivity, increased hiring costs, and decreased customer satisfaction. This project aims to help Bionic Enterprise reduce employee churn by identifying why employees are leaving the company and providing recommendations on how to curb employee turnover.
 
-The project will use the available data to create a Power BI report. The report will include visualizations and insights that will help the Director of HR understand the factors that are driving employee churn. The report will also make recommendations for how Bionic Enterprise can improve employee retention.
+The project will use the available data to create a Power BI report. The report will include visualizations and insights that will help the Director of HR for Bionic Enterprise understand the factors that are driving employee churn. The report will also make recommendations for how Bionic Enterprise can improve employee retention.
 
 # Project Plan
 The project included the following phases:
